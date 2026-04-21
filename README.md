@@ -33,3 +33,5 @@ Para garantir a integridade do pipeline, o script de análise gera um relatório
 2           18             98            15600.00
 3           22             85            12300.45
 4           04             70             9800.10
+
+Desenvolvido por Thamiris Ferreira - Foco em Engenharia de Dados e Segurança Financeira.
