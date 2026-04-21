@@ -1,4 +1,6 @@
-# 🛡️ Detecção de Fraude em Cartões de Crédito: Pipeline de Dados
+## 🔗 [Dashboard em Tempo Real dos dados tratados:](https://etl-credito-financeiro-kaggle.streamlit.app)
+
+# Detecção de Fraude em Cartões de Crédito: Pipeline de Dados
 
 Este projeto implementa um pipeline de dados "end-to-end" utilizando a **Arquitetura Medalhão** para processar e analisar transações bancárias, identificando padrões de fraude e impacto financeiro.
 
@@ -29,12 +31,6 @@ O pipeline foi estruturado em três camadas lógicas para garantir a governança
 3           22             85             12300.45
 4           04             70              9800.10
 ```
-
-## Resultado da análise do meu código gerado, o pipeline processou os dados com sucesso:
-
-**![Resultado da Análise SQL](resultado_analise.png)**
-
-
 
 
 ## Project developed by Thamiris Ferreira 🐝
