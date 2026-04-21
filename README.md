@@ -30,4 +30,11 @@ O pipeline foi estruturado em três camadas lógicas para garantir a governança
 4           04             70              9800.10
 ```
 
+## Resultado da análise do meu código gerado, o pipeline processou os dados com sucesso:
+
+**![Resultado da Análise SQL](resultado_analise.png)**
+
+
+
+
 ## Project developed by Thamiris Ferreira 🐝
