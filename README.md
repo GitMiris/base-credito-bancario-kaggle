@@ -1,4 +1,4 @@
-## 🔗 [Dashboard em Tempo Real dos dados tratados:](https://etl-credito-financeiro-kaggle.streamlit.app)
+## 🔗 [Dashboard em Tempo Real dos dados gold:](https://etl-credito-financeiro-kaggle.streamlit.app)
 
 # Detecção de Fraude em Cartões de Crédito: Pipeline de Dados
 
@@ -36,4 +36,4 @@ O pipeline foi estruturado em três camadas lógicas para garantir a governança
 
 **![Dashboard](dashboard_resultado.png)**
 
-## Project developed by Thamiris Ferreira 🐝
+## Project developed by ***Thamiris Ferreira*** 🐝
